@@ -7699,7 +7699,7 @@ clc95	1		Charles was criticized, but I can't remember who by.
 clc95	1		Charles was criticized by some students, but I can't remember which ones.
 clc95	1		Meg is attracted to somebody, but they don't know who.
 clc95	0	*	Meg is attracted to Harry, but they don't know who.
-clc95	1		Meg is attracted to somebody, but they don't know who she.
+clc95	0		Meg is attracted to somebody, but they don't know who she.
 clc95	1		Meg is attracted to Harry, but they don't know who she is attracted to.
 clc95	1		Sandy was trying to work out which students would be able to solve a certain problem, but she wouldn't tell us which one.
 clc95	1		That certain countries would vote against the resolution has been widely reported, but I'm not sure which ones.
